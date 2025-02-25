@@ -31,3 +31,7 @@ Ever had the feeling you wanted to have a quicker inventory management system wi
   ![Picking up all sand items from the chest](../../ignore_img/same_type_chest_pickup.png)
 - Of course, we all know shift-clicking quickly moves the item you selected to your inventory. With this tweak, you can hold you shift key, hold your LMB and drag over all the items in a chest to move all of them quickly to your inventory, instead of having to click on each individual item slot.
 - If you have an item stacked in your inventory / chest, you can use your scroll wheel to place items in the other inventory type. Scrolling down causes the item to be moved to the other inventory and scrolling up causes the items to be moved to the inventory where your mouse is at the point of scrolling. It also can be the other way around, if you customize the setting yourself.
+
+## Xaero's Minimap & Worldmap
+
+These are two mods that you can use apart from each other or together! Both the minimap and the worldmap have a lot of different features and a lot of customization options. You can customize it until you get sick of looking at it or to get a calmer feeling of the minimap. The mods also feature waypoints which you can teleport to, so when you find a place for the first time, you don't always have to travel so many blocks anymore!

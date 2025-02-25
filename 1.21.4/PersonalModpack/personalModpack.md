@@ -62,3 +62,7 @@ With this mod, you can zoom in like the famous OptiFine zoom. While zooming in, 
 \
 **Max zoom level:**\
 <img src="../../ignore_img/max_zoom.png" alt="Max zoom level" width="600px">
+
+## Xaero's Minimap & Worldmap
+
+These are two mods that you can use apart from each other or together! Both the minimap and the worldmap have a lot of different features and a lot of customization options. You can customize it until you get sick of looking at it or to get a calmer feeling of the minimap. The mods also feature waypoints which you can teleport to, so when you find a place for the first time, you don't always have to travel so many blocks anymore!
