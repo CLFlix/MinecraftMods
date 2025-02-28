@@ -32,6 +32,24 @@ Ever had the feeling you wanted to have a quicker inventory management system wi
 - Of course, we all know shift-clicking quickly moves the item you selected to your inventory. With this tweak, you can hold you shift key, hold your LMB and drag over all the items in a chest to move all of them quickly to your inventory, instead of having to click on each individual item slot.
 - If you have an item stacked in your inventory / chest, you can use your scroll wheel to place items in the other inventory type. Scrolling down causes the item to be moved to the other inventory and scrolling up causes the items to be moved to the inventory where your mouse is at the point of scrolling. It also can be the other way around, if you customize the setting yourself.
 
+## Voicechat
+
+I don't think this needs much explanation ;) Just a simple voice chat mod to communicate with each other without any third-party software. This works with proximity chat and you can join group chats which allow you to communicate without being in each other's vicinity.
+
+## WI Zoom
+
+With this mod, you can zoom in like the famous OptiFine zoom. While zooming in, you can use your scroll wheel to zoom in even further or zoom in less far.\
+**No zoom:**\
+<img src="../../ignore_img/no_zoom.png" alt="Max zoom level" width="600px">
+\
+\
+**Default zoom level:**\
+<img src="../../ignore_img/default_zoom.png" alt="Max zoom level" width="600px">
+\
+\
+**Max zoom level:**\
+<img src="../../ignore_img/max_zoom.png" alt="Max zoom level" width="600px">
+
 ## Xaero's Minimap & Worldmap
 
 These are two mods that you can use apart from each other or together! Both the minimap and the worldmap have a lot of different features and a lot of customization options. You can customize it until you get sick of looking at it or to get a calmer feeling of the minimap. The mods also feature waypoints which you can teleport to, so when you find a place for the first time, you don't always have to travel so many blocks anymore!
