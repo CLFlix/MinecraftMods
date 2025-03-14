@@ -18,15 +18,15 @@ I don't think this needs much explanation ;) Just a simple voice chat mod to com
 
 With this mod, you can zoom in like the famous OptiFine zoom. While zooming in, you can use your scroll wheel to zoom in even further or zoom in less far.\
 **No zoom:**\
-<img src="../../ignore_img/no_zoom.png" alt="Max zoom level" width="600px">
+<img src="../../ignore/no_zoom.png" alt="Max zoom level" width="600px">
 \
 \
 **Default zoom level:**\
-<img src="../../ignore_img/default_zoom.png" alt="Max zoom level" width="600px">
+<img src="../../ignore/default_zoom.png" alt="Max zoom level" width="600px">
 \
 \
 **Max zoom level:**\
-<img src="../../ignore_img/max_zoom.png" alt="Max zoom level" width="600px">
+<img src="../../ignore/max_zoom.png" alt="Max zoom level" width="600px">
 
 ## Xaero's Minimap & Worldmap
 
