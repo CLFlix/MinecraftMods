@@ -1,6 +1,6 @@
 # Shaders
 
-### Make sure you've started up your game with Iris and Sodium installed first, so the necessary folders are created automatically.
+### Make sure you have started your game at least once with Sodium and Iris installed first. This should create the necessary folders to install the shaders.
 
 ### Step 1: Open AppData
 
@@ -11,4 +11,4 @@ Type "%appdata%" and press Enter or click "OK". This should open your file explo
 
 ### Step 2: Shaders folder
 
-Go into the "shaderpacks" folder and paste the folders in there. **DO NOT UNZIP THEM**
+Go into the "shaderpacks" folder and paste the folders in there. **Shaderpacks should not be unzipped.**

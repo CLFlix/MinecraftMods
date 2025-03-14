@@ -11,4 +11,4 @@ Type "%appdata%" and press Enter or click "OK". This should open your file explo
 
 ### Step 2: Resource packs folder
 
-Go into your "resourcepacks" folder and paste the folders in there. **DO NOT UNZIP THEM**
+Go into your "resourcepacks" folder and paste the folders in there. **Resource packs should not be unzipped.**
