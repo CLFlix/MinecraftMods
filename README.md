@@ -4,8 +4,6 @@
 
 I do not claim to own or have worked on any of these mods myself. I simply collected them from Modrinth and I'm not responsible for any mistakes you make during the installation of any of these mods. I will provide a step-by-step guide on how to install them. You will only be able to follow this if your Minecraft is installed in the default folders, on _Windows_. If this is not the case, I assume you don't even need this guide.
 
-If you came here from a discord server (only posting it to one server, so if you did, you should know), please only pay attention to the 1.21.4 folder, since the server runs on this version. Running minecraft on a different version will only be causing you to not be able to connect to the server.
-
 ## Installation
 
 ### Step 1: Open AppData
@@ -24,7 +22,7 @@ In the AppData\Roaming folder, you should be able to locate the ".minecraft" fol
 
 ### Again, only follow this step if you **DON'T** have the "mods" and ".fabric" folders.
 
-Go to the [Fabric download page](https://fabricmc.net/) and download the Fabric installer. Once downloaded, make sure you don't have Minecraft or the Minecraft Launcher running. Then run the installer and select the correct version. The version of your Fabric installation should be 1.21.4 for our server. Install Fabric and open Minecraft Launcher to check if there is a new installation available to run the game. Now to create the mod folder, launch the game on the Fabric installation and close it again.
+Go to the [Fabric download page](https://fabricmc.net/) and download the Fabric installer if you don't have it yet. Once downloaded, make sure you don't have Minecraft or the Minecraft Launcher running. Then run the installer and select the correct version. The version of your Fabric installation should be 1.21.5 for our server. Install Fabric and open Minecraft Launcher to check if there is a new installation available to run the game. Now to create the mod folder, launch the game on the Fabric installation and close it again.
 
 # Step 4: Install the mods
 
