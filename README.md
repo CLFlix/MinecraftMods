@@ -1,5 +1,3 @@
-(view in GitHub)
-
 # Minecraft Mods
 
 I do not claim to own or have worked on any of these mods myself. I simply collected them from Modrinth and I'm not responsible for any mistakes you make during the installation of any of these mods. I will provide a step-by-step guide on how to install them. You will only be able to follow this if your Minecraft is installed in the default folders, on _Windows_. If this is not the case, I assume you don't even need this guide.
